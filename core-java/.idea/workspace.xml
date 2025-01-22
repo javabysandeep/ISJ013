@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10ad998b-91fb-4c8b-90c6-b4e965c8f39e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../advance-java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/advance-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_1_introduction/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/Demo2LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_2_string_concatenation/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_3_assignment_operator/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_3_assignment_operator/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_4_shorthand_arithmetic/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_6_relational_operators/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_6_relational_operators/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_6_relational_operators/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/Empty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/HelloWorld.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ryHO0V7VKGGpoyJNjmFS8JMXiI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo10.executor": "Run",
+    "Application.Demo11.executor": "Run",
+    "Application.Demo2.executor": "Run",
+    "Application.Demo3.executor": "Run",
+    "Application.Demo4.executor": "Run",
+    "Application.Demo5.executor": "Run",
+    "Application.Demo6.executor": "Run",
+    "Application.Demo7.executor": "Run",
+    "Application.Demo8.executor": "Run",
+    "Application.Demo9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_4_control_statements.if_else" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo11">
+    <configuration name="Demo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo10" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo11" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo7" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo8" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo9" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo11" />
+        <item itemvalue="Application.Demo10" />
+        <item itemvalue="Application.Demo9" />
+        <item itemvalue="Application.Demo8" />
+        <item itemvalue="Application.Demo7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10ad998b-91fb-4c8b-90c6-b4e965c8f39e" name="Changes" comment="" />
+      <created>1737524358337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737524358337</updated>
+    </task>
+    <servers />
+  </component>
+</project>
