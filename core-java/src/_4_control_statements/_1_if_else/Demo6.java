@@ -1,4 +1,4 @@
-package _4_control_statements.if_else;
+package _4_control_statements._1_if_else;
 
 public class Demo6 {
     public static void main(String[] args) {

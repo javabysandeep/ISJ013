@@ -37,11 +37,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo4.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Empty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +54,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ryHO0V7VKGGpoyJNjmFS8JMXiI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -73,6 +69,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
     "Application.Demo11.executor": "Run",
     "Application.Demo2.executor": "Run",
@@ -90,16 +87,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_4_control_statements.switchDemos" />
       <recent name="_4_control_statements.if_else" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo11">
-    <configuration name="Demo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo10" />
+  <component name="RunManager" selected="Application.Demo5">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo1" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo11" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo2" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo7" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo3" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo8" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo4" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.if_else.Demo9" />
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo5" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.if_else.*" />
+          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo11" />
-        <item itemvalue="Application.Demo10" />
-        <item itemvalue="Application.Demo9" />
-        <item itemvalue="Application.Demo8" />
-        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
