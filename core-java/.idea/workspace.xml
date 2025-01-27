@@ -38,6 +38,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo25PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo25PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +73,31 @@
     "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
     "Application.Demo11.executor": "Run",
+    "Application.Demo12.executor": "Run",
+    "Application.Demo13.executor": "Run",
+    "Application.Demo14.executor": "Run",
+    "Application.Demo15.executor": "Run",
+    "Application.Demo16.executor": "Run",
+    "Application.Demo17.executor": "Run",
+    "Application.Demo18OddNumbers.executor": "Run",
+    "Application.Demo19.executor": "Run",
     "Application.Demo2.executor": "Run",
+    "Application.Demo20Multiplication.executor": "Run",
+    "Application.Demo21Division.executor": "Run",
+    "Application.Demo23Factors.executor": "Run",
+    "Application.Demo24PerfectNumber.executor": "Run",
+    "Application.Demo25PrimeNumber.executor": "Debug",
     "Application.Demo3.executor": "Run",
     "Application.Demo4.executor": "Run",
     "Application.Demo5.executor": "Run",
     "Application.Demo6.executor": "Run",
-    "Application.Demo7.executor": "Run",
+    "Application.Demo7.executor": "Debug",
     "Application.Demo8.executor": "Run",
     "Application.Demo9.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo1.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo2.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo3.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -87,17 +105,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_4_control_statements._3_forDemos" />
       <recent name="_4_control_statements.switchDemos" />
       <recent name="_4_control_statements.if_else" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo5">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo1" />
+  <component name="RunManager" selected="Application.Demo25PrimeNumber">
+    <configuration name="Demo20Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo20Multiplication" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
+          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo2" />
+    <configuration name="Demo21Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo21Division" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
+          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo3" />
+    <configuration name="Demo23Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo23Factors" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
+          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo4" />
+    <configuration name="Demo24PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo24PerfectNumber" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
+          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements.switchDemos.Demo5" />
+    <configuration name="Demo25PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo25PrimeNumber" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements.switchDemos.*" />
+          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo5" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo25PrimeNumber" />
+        <item itemvalue="Application.Demo24PerfectNumber" />
+        <item itemvalue="Application.Demo23Factors" />
+        <item itemvalue="Application.Demo21Division" />
+        <item itemvalue="Application.Demo20Multiplication" />
       </list>
     </recent_temporary>
   </component>
@@ -177,5 +196,31 @@
       <updated>1737524358337</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo7.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo7.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo23Factors.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo25PrimeNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
