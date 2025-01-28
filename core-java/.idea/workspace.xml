@@ -38,7 +38,6 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo25PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo25PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,16 @@
     "Application.Demo23Factors.executor": "Run",
     "Application.Demo24PerfectNumber.executor": "Run",
     "Application.Demo25PrimeNumber.executor": "Debug",
+    "Application.Demo26Pattern1.executor": "Run",
+    "Application.Demo27Pattern2.executor": "Run",
+    "Application.Demo28Pattern3.executor": "Run",
+    "Application.Demo29Pattern4.executor": "Run",
     "Application.Demo3.executor": "Run",
+    "Application.Demo30Pattern5.executor": "Run",
+    "Application.Demo31Pattern6.executor": "Run",
+    "Application.Demo32Pattern7.executor": "Run",
+    "Application.Demo33Pattern8.executor": "Run",
+    "Application.Demo34Pattern9.executor": "Run",
     "Application.Demo4.executor": "Run",
     "Application.Demo5.executor": "Run",
     "Application.Demo6.executor": "Run",
@@ -110,9 +118,9 @@
       <recent name="_4_control_statements.if_else" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo25PrimeNumber">
-    <configuration name="Demo20Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo20Multiplication" />
+  <component name="RunManager" selected="Application.Demo34Pattern9">
+    <configuration name="Demo30Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo30Pattern5" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo21Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo21Division" />
+    <configuration name="Demo31Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo31Pattern6" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo23Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo23Factors" />
+    <configuration name="Demo32Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo32Pattern7" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo24PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo24PerfectNumber" />
+    <configuration name="Demo33Pattern8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo33Pattern8" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +171,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo25PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo25PrimeNumber" />
+    <configuration name="Demo34Pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo34Pattern9" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -178,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo25PrimeNumber" />
-        <item itemvalue="Application.Demo24PerfectNumber" />
-        <item itemvalue="Application.Demo23Factors" />
-        <item itemvalue="Application.Demo21Division" />
-        <item itemvalue="Application.Demo20Multiplication" />
+        <item itemvalue="Application.Demo34Pattern9" />
+        <item itemvalue="Application.Demo33Pattern8" />
+        <item itemvalue="Application.Demo32Pattern7" />
+        <item itemvalue="Application.Demo31Pattern6" />
+        <item itemvalue="Application.Demo30Pattern5" />
       </list>
     </recent_temporary>
   </component>
