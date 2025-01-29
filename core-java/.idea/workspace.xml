@@ -96,9 +96,15 @@
     "Application.Demo32Pattern7.executor": "Run",
     "Application.Demo33Pattern8.executor": "Run",
     "Application.Demo34Pattern9.executor": "Run",
+    "Application.Demo35Factorial.executor": "Run",
+    "Application.Demo36PrimeNumberRange.executor": "Run",
+    "Application.Demo3SumOfCubeOfDigits.executor": "Run",
     "Application.Demo4.executor": "Run",
+    "Application.Demo4Armstrong.executor": "Run",
     "Application.Demo5.executor": "Run",
+    "Application.Demo5ReverseNumber.executor": "Run",
     "Application.Demo6.executor": "Run",
+    "Application.Demo6PalindromeNumber.executor": "Run",
     "Application.Demo7.executor": "Debug",
     "Application.Demo8.executor": "Run",
     "Application.Demo9.executor": "Run",
@@ -106,21 +112,59 @@
     "Application._4_control_statements._3_forDemos.Demo2.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo3.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo5.executor": "Run",
+    "Application._4_control_statements._6_breakdemo.Demo1.executor": "Run",
+    "Application._4_control_statements._6_breakdemo.Demo2.executor": "Run",
+    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo1.executor": "Run",
+    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo2.executor": "Run",
+    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Work/ISJ013/core-java/src/_4_control_statements"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\" />
+      <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_4_control_statements._6_breakdemo" />
+      <recent name="_4_control_statements._4_whileDemos" />
       <recent name="_4_control_statements._3_forDemos" />
       <recent name="_4_control_statements.switchDemos" />
       <recent name="_4_control_statements.if_else" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo34Pattern9">
-    <configuration name="Demo30Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo30Pattern5" />
+  <component name="RunManager" selected="Application.Demo37PerfectRange">
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._8_returnDemo.Demo2" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements._8_returnDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._8_returnDemo.Demo3" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4_control_statements._8_returnDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo35Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo35Factorial" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo31Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo31Pattern6" />
+    <configuration name="Demo36PrimeNumberRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo36PrimeNumberRange" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -145,34 +189,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo32Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo32Pattern7" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo33Pattern8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo33Pattern8" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo34Pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo34Pattern9" />
+    <configuration name="Demo37PerfectRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo37PerfectRange" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -186,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo34Pattern9" />
-        <item itemvalue="Application.Demo33Pattern8" />
-        <item itemvalue="Application.Demo32Pattern7" />
-        <item itemvalue="Application.Demo31Pattern6" />
-        <item itemvalue="Application.Demo30Pattern5" />
+        <item itemvalue="Application.Demo37PerfectRange" />
+        <item itemvalue="Application.Demo36PrimeNumberRange" />
+        <item itemvalue="Application.Demo35Factorial" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +245,15 @@
           <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo25PrimeNumber.java</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo35Factorial.java</url>
+          <line>3</line>
+          <properties class="_4_control_statements._3_forDemos.Demo35Factorial" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
