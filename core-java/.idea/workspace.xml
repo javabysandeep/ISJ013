@@ -67,82 +67,97 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo1.executor": "Run",
-    "Application.Demo10.executor": "Run",
-    "Application.Demo11.executor": "Run",
-    "Application.Demo12.executor": "Run",
-    "Application.Demo13.executor": "Run",
-    "Application.Demo14.executor": "Run",
-    "Application.Demo15.executor": "Run",
-    "Application.Demo16.executor": "Run",
-    "Application.Demo17.executor": "Run",
-    "Application.Demo18OddNumbers.executor": "Run",
-    "Application.Demo19.executor": "Run",
-    "Application.Demo2.executor": "Run",
-    "Application.Demo20Multiplication.executor": "Run",
-    "Application.Demo21Division.executor": "Run",
-    "Application.Demo23Factors.executor": "Run",
-    "Application.Demo24PerfectNumber.executor": "Run",
-    "Application.Demo25PrimeNumber.executor": "Debug",
-    "Application.Demo26Pattern1.executor": "Run",
-    "Application.Demo27Pattern2.executor": "Run",
-    "Application.Demo28Pattern3.executor": "Run",
-    "Application.Demo29Pattern4.executor": "Run",
-    "Application.Demo3.executor": "Run",
-    "Application.Demo30Pattern5.executor": "Run",
-    "Application.Demo31Pattern6.executor": "Run",
-    "Application.Demo32Pattern7.executor": "Run",
-    "Application.Demo33Pattern8.executor": "Run",
-    "Application.Demo34Pattern9.executor": "Run",
-    "Application.Demo35Factorial.executor": "Run",
-    "Application.Demo36PrimeNumberRange.executor": "Run",
-    "Application.Demo3SumOfCubeOfDigits.executor": "Run",
-    "Application.Demo4.executor": "Run",
-    "Application.Demo4Armstrong.executor": "Run",
-    "Application.Demo5.executor": "Run",
-    "Application.Demo5ReverseNumber.executor": "Run",
-    "Application.Demo6.executor": "Run",
-    "Application.Demo6PalindromeNumber.executor": "Run",
-    "Application.Demo7.executor": "Debug",
-    "Application.Demo8.executor": "Run",
-    "Application.Demo9.executor": "Run",
-    "Application._4_control_statements._3_forDemos.Demo1.executor": "Run",
-    "Application._4_control_statements._3_forDemos.Demo2.executor": "Run",
-    "Application._4_control_statements._3_forDemos.Demo3.executor": "Run",
-    "Application._4_control_statements._3_forDemos.Demo5.executor": "Run",
-    "Application._4_control_statements._6_breakdemo.Demo1.executor": "Run",
-    "Application._4_control_statements._6_breakdemo.Demo2.executor": "Run",
-    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo1.executor": "Run",
-    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo2.executor": "Run",
-    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Work/ISJ013/core-java/src/_4_control_statements"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo18OddNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo20Multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo21Division.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo23Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo24PerfectNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo25PrimeNumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Demo26Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo27Pattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo28Pattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo29Pattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo30Pattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo31Pattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo32Pattern7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo33Pattern8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo34Pattern9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo35Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo36PrimeNumberRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo37PerfectRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo3SumOfCubeOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo4Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo5ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo6PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo7.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Demo8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo9.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._3_forDemos.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._3_forDemos.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._3_forDemos.Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._3_forDemos.Demo5.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._6_breakdemo.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._6_breakdemo.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Work/ISJ013/core-java/src/_4_control_statements&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\" />
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_5_accept_user_input" />
       <recent name="_4_control_statements._6_breakdemo" />
       <recent name="_4_control_statements._4_whileDemos" />
       <recent name="_4_control_statements._3_forDemos" />
       <recent name="_4_control_statements.switchDemos" />
-      <recent name="_4_control_statements.if_else" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo37PerfectRange">
+  <component name="RunManager" selected="Application.Demo3">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo1" />
+      <module name="core-java" />
+      <option name="PROGRAM_PARAMETERS" value="Good morning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_5_accept_user_input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._8_returnDemo.Demo2" />
+      <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo2" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements._8_returnDemo.*" />
+          <option name="PATTERN" value="_5_accept_user_input.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,24 +166,11 @@
       </method>
     </configuration>
     <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._8_returnDemo.Demo3" />
+      <option name="MAIN_CLASS_NAME" value="_5_accept_user_input.Demo3" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4_control_statements._8_returnDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo35Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_control_statements._3_forDemos.Demo35Factorial" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_4_control_statements._3_forDemos.*" />
+          <option name="PATTERN" value="_5_accept_user_input.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,13 +204,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.Demo36PrimeNumberRange" />
+      <item itemvalue="Application.Demo37PerfectRange" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo37PerfectRange" />
-        <item itemvalue="Application.Demo36PrimeNumberRange" />
-        <item itemvalue="Application.Demo35Factorial" />
         <item itemvalue="Application.Demo3" />
         <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo37PerfectRange" />
+        <item itemvalue="Application.Demo36PrimeNumberRange" />
       </list>
     </recent_temporary>
   </component>
