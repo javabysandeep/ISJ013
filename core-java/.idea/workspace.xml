@@ -38,8 +38,9 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_6_class_components/_2_methods/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_class_components/_2_methods/A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_6_class_components/_2_methods/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_class_components/_2_methods/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_class_components/_2_methods/mvc/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_class_components/_2_methods/mvc/CourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_class_components/_2_methods/mvc/CourseMgmtApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_class_components/_2_methods/mvc/CourseMgmtApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.B.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.CourseMgmtApp.executor": "Run",
     "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
     "Application.Demo11.executor": "Run",
@@ -108,6 +111,7 @@
     "Application.Demo5.executor": "Run",
     "Application.Demo5ReverseNumber.executor": "Run",
     "Application.Demo6.executor": "Run",
+    "Application.Demo6CallByValue.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
     "Application.Demo7.executor": "Debug",
     "Application.Demo8.executor": "Run",
@@ -137,14 +141,14 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_6_class_components._2_methods.mvc" />
       <recent name="_6_class_components._2_methods" />
       <recent name="_5_accept_user_input" />
       <recent name="_4_control_statements._6_breakdemo" />
       <recent name="_4_control_statements._4_whileDemos" />
-      <recent name="_4_control_statements._3_forDemos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B">
+  <component name="RunManager" selected="Application.CourseMgmtApp">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_6_class_components._2_methods.B" />
       <module name="core-java" />
@@ -158,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._2_methods.Demo1" />
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._2_methods.BankAccount" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -171,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._2_methods.Demo2" />
+    <configuration name="CourseMgmtApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._2_methods.mvc.CourseMgmtApp" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._2_methods.*" />
+          <option name="PATTERN" value="_6_class_components._2_methods.mvc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._1_variables.Student" />
+    <configuration name="Demo6CallByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._2_methods.Demo6CallByValue" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._1_variables.*" />
+          <option name="PATTERN" value="_6_class_components._2_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +215,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BankAccount" />
+      <item itemvalue="Application.CourseMgmtApp" />
+      <item itemvalue="Application.Demo6CallByValue" />
       <item itemvalue="Application.B" />
-      <item itemvalue="Application._6_class_components._2_methods.Demo1" />
-      <item itemvalue="Application.Demo2" />
       <item itemvalue="Application.Demo3MethodOverloading" />
-      <item itemvalue="Application.Student" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CourseMgmtApp" />
+        <item itemvalue="Application.Demo6CallByValue" />
+        <item itemvalue="Application.BankAccount" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.Demo3MethodOverloading" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application._6_class_components._2_methods.Demo1" />
-        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
