@@ -5,7 +5,9 @@ public class Demo6CallByValue {
         BankAccount bankAccount = new BankAccount();
         bankAccount.accountNumber = 101;
         bankAccount.balance = 1000;
+
         updateBankAccount(bankAccount);
+
         System.out.println("main method");
         System.out.println("Account number = " + bankAccount.accountNumber);//1111111
         System.out.println("Account Balance = " + bankAccount.balance);//99999
