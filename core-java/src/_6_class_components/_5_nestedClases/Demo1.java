@@ -9,7 +9,7 @@ public class Demo1 {
 
     //2. non-static nested class - inner class
     class B {
-        static int b = 200;
+        //static int b = 200;
     }
 
     public static void main(String[] args) {

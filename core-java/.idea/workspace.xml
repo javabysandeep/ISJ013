@@ -37,7 +37,13 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo4.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_class_components/_5_nestedClases/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_class_components/_5_nestedClases/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +75,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.A.executor": "Run",
     "Application.App.executor": "Run",
     "Application.B.executor": "Run",
     "Application.BankAccount.executor": "Run",
     "Application.CourseMgmtApp.executor": "Run",
-    "Application.Demo1.executor": "Debug",
+    "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
     "Application.Demo11.executor": "Run",
     "Application.Demo12.executor": "Run",
@@ -103,10 +110,13 @@
     "Application.Demo35Factorial.executor": "Run",
     "Application.Demo36PrimeNumberRange.executor": "Run",
     "Application.Demo37PerfectRange.executor": "Run",
+    "Application.Demo3StaticNestedClass.executor": "Run",
     "Application.Demo3SumOfCubeOfDigits.executor": "Run",
     "Application.Demo4.executor": "Debug",
     "Application.Demo4Armstrong.executor": "Run",
+    "Application.Demo4NestedClass.executor": "Run",
     "Application.Demo5.executor": "Run",
+    "Application.Demo5LocalInnerClass.executor": "Run",
     "Application.Demo5ReverseNumber.executor": "Run",
     "Application.Demo6.executor": "Run",
     "Application.Demo6CallByValue.executor": "Run",
@@ -117,6 +127,7 @@
     "Application.Expense.executor": "Debug",
     "Application.LombokAppTest.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo1.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo2.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo3.executor": "Run",
@@ -134,8 +145,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sande/Downloads/lombok-1.18.36.jar",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.2109375",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
@@ -145,16 +156,42 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_6_class_components._5_nestedClases" />
       <recent name="_6_class_components._4_blocks" />
       <recent name="_6_class_components._2_methods.mvc2" />
       <recent name="_6_class_components._2_methods.mvc" />
       <recent name="_6_class_components._2_methods" />
-      <recent name="_5_accept_user_input" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Demo1">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._6_access_specifier.p1.A" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_6_class_components._6_access_specifier.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._5_nestedClases.Demo1" />
+      <option name="MAIN_CLASS_NAME" value="_7_oops.encapsulation.Demo1" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_oops.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4NestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._5_nestedClases.Demo4NestedClass" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -166,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._4_blocks.Demo2" />
+    <configuration name="Demo5LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._5_nestedClases.Demo5LocalInnerClass" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._4_blocks.*" />
+          <option name="PATTERN" value="_6_class_components._5_nestedClases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,38 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._4_blocks.Demo3" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_class_components._6_access_specifier.p1.Test" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._4_blocks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._4_blocks.Demo4" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_6_class_components._4_blocks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_6_class_components._4_blocks.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._4_blocks.Demo1" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_6_class_components._4_blocks.*" />
+          <option name="PATTERN" value="_6_class_components._6_access_specifier.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,19 +230,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo2" />
-      <item itemvalue="Application.Demo3" />
-      <item itemvalue="Application.Demo4" />
-      <item itemvalue="Application._6_class_components._4_blocks.Demo1" />
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.Demo4NestedClass" />
+      <item itemvalue="Application.Demo5LocalInnerClass" />
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Demo1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application._6_class_components._4_blocks.Demo1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.Demo5LocalInnerClass" />
+        <item itemvalue="Application.Demo4NestedClass" />
       </list>
     </recent_temporary>
   </component>
