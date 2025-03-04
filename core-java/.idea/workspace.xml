@@ -39,11 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_control_statements/_2_switchDemos/Demo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_6_class_components/_5_nestedClases/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_class_components/_5_nestedClases/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_7_oops/inheritance/Demo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_oops/inheritance/Demo12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,8 +117,8 @@
     "Application.Demo6.executor": "Run",
     "Application.Demo6CallByValue.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
-    "Application.Demo7.executor": "Run",
-    "Application.Demo8.executor": "Run",
+    "Application.Demo7.executor": "Debug",
+    "Application.Demo8.executor": "Debug",
     "Application.Demo9.executor": "Run",
     "Application.Expense.executor": "Debug",
     "Application.LombokAppTest.executor": "Run",
@@ -141,6 +137,7 @@
     "Application._6_class_components.Demo3.executor": "Run",
     "Application._6_class_components._2_methods.Demo1.executor": "Run",
     "Application._6_class_components._4_blocks.Demo1.executor": "Run",
+    "Application._7_oops.inheritance.Demo1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -156,20 +153,20 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_7_oops.inheritance" />
       <recent name="_6_class_components._5_nestedClases" />
       <recent name="_6_class_components._4_blocks" />
       <recent name="_6_class_components._2_methods.mvc2" />
       <recent name="_6_class_components._2_methods.mvc" />
-      <recent name="_6_class_components._2_methods" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._6_access_specifier.p1.A" />
+  <component name="RunManager" selected="Application.Demo12">
+    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_oops.inheritance.Demo11" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._6_access_specifier.p1.*" />
+          <option name="PATTERN" value="_7_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_oops.encapsulation.Demo1" />
+    <configuration name="Demo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_oops.inheritance.Demo12" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_oops.encapsulation.*" />
+          <option name="PATTERN" value="_7_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4NestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._5_nestedClases.Demo4NestedClass" />
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_oops.inheritance.Demo7" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._5_nestedClases.*" />
+          <option name="PATTERN" value="_7_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._5_nestedClases.Demo5LocalInnerClass" />
+    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_oops.inheritance.Demo8" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._5_nestedClases.*" />
+          <option name="PATTERN" value="_7_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_class_components._6_access_specifier.p1.Test" />
+    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_oops.inheritance.Demo9" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_6_class_components._6_access_specifier.p1.*" />
+          <option name="PATTERN" value="_7_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,19 +227,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.A" />
-      <item itemvalue="Application.Demo4NestedClass" />
-      <item itemvalue="Application.Demo5LocalInnerClass" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.Demo11" />
+      <item itemvalue="Application.Demo12" />
+      <item itemvalue="Application.Demo7" />
+      <item itemvalue="Application.Demo8" />
+      <item itemvalue="Application.Demo9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.Demo5LocalInnerClass" />
-        <item itemvalue="Application.Demo4NestedClass" />
+        <item itemvalue="Application.Demo12" />
+        <item itemvalue="Application.Demo11" />
+        <item itemvalue="Application.Demo9" />
+        <item itemvalue="Application.Demo8" />
+        <item itemvalue="Application.Demo7" />
       </list>
     </recent_temporary>
   </component>
@@ -385,6 +382,66 @@
           <line>16</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo7.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo8.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo8.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_7_oops/inheritance/Demo8.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo35Factorial.java</url>
           <line>3</line>
@@ -396,5 +453,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/core_java$Demo8.ic" NAME="Demo8 Coverage Results" MODIFIED="1741065419955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>_7_oops.inheritance.*</FILTER>
+    </SUITE>
   </component>
 </project>
