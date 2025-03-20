@@ -39,6 +39,8 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8_java8_features/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_java8_features/Demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8_java8_features/Demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_java8_features/Demo9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +118,7 @@
     "Application.Demo6.executor": "Run",
     "Application.Demo6CallByValue.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
-    "Application.Demo7.executor": "Debug",
+    "Application.Demo7.executor": "Run",
     "Application.Demo8.executor": "Debug",
     "Application.Demo9.executor": "Run",
     "Application.Expense.executor": "Debug",
@@ -139,13 +141,22 @@
     "Application._7_oops.abstraction.Demo1.executor": "Debug",
     "Application._7_oops.abstraction.Demo2.executor": "Run",
     "Application._7_oops.inheritance.Demo1.executor": "Run",
+    "Application._8_java8_features.Demo1.executor": "Run",
+    "Application._8_java8_features.Demo2.executor": "Run",
+    "Application._8_java8_features.Demo4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sande/Downloads/lombok-1.18.36.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.2109375",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -154,20 +165,20 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_8_java8_features" />
       <recent name="_7_oops.inheritance" />
       <recent name="_6_class_components._5_nestedClases" />
       <recent name="_6_class_components._4_blocks" />
       <recent name="_6_class_components._2_methods.mvc2" />
-      <recent name="_6_class_components._2_methods.mvc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo4">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_oops.polymorphism.Demo1" />
+  <component name="RunManager" selected="Application.Demo9">
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo5" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_oops.polymorphism.*" />
+          <option name="PATTERN" value="_8_java8_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_oops.polymorphism.Demo2" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo6" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_oops.polymorphism.*" />
+          <option name="PATTERN" value="_8_java8_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_oops.abstraction.Demo4" />
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo7" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_oops.abstraction.*" />
+          <option name="PATTERN" value="_8_java8_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_oops.abstraction.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_oops.abstraction.Demo1" />
+    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo9" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_oops.abstraction.*" />
+          <option name="PATTERN" value="_8_java8_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_oops.abstraction.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_oops.abstraction.Demo2" />
+    <configuration name="_8_java8_features.Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo4" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_7_oops.abstraction.*" />
+          <option name="PATTERN" value="_8_java8_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,21 +239,29 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo4" />
-      <item itemvalue="Application._7_oops.abstraction.Demo1" />
-      <item itemvalue="Application._7_oops.abstraction.Demo2" />
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Demo5" />
+      <item itemvalue="Application.Demo6" />
+      <item itemvalue="Application.Demo7" />
+      <item itemvalue="Application.Demo9" />
+      <item itemvalue="Application._8_java8_features.Demo4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application._7_oops.abstraction.Demo2" />
-        <item itemvalue="Application._7_oops.abstraction.Demo1" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo9" />
+        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application._8_java8_features.Demo4" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -252,8 +271,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737524358337</updated>
+      <workItem from="1742445169921" duration="4062000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
