@@ -39,7 +39,6 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_9_final_keyword/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_9_final_keyword/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,12 +119,13 @@
     "Application.Demo6CallByValue.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
     "Application.Demo7.executor": "Run",
-    "Application.Demo8.executor": "Debug",
+    "Application.Demo8.executor": "Run",
     "Application.Demo9.executor": "Run",
     "Application.Expense.executor": "Debug",
     "Application.LombokAppTest.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application._10_object_class.Demo4.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo1.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo2.executor": "Run",
     "Application._4_control_statements._3_forDemos.Demo3.executor": "Run",
@@ -166,20 +166,20 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_10_object_class" />
       <recent name="_8_java8_features" />
       <recent name="_7_oops.inheritance" />
       <recent name="_6_class_components._5_nestedClases" />
       <recent name="_6_class_components._4_blocks" />
-      <recent name="_6_class_components._2_methods.mvc2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo4">
-    <configuration name="Demo16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo16" />
+  <component name="RunManager" selected="Application.Demo8">
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo5" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_8_java8_features.*" />
+          <option name="PATTERN" value="_10_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo17" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo6" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_8_java8_features.*" />
+          <option name="PATTERN" value="_10_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo18" />
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo7" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_8_java8_features.*" />
+          <option name="PATTERN" value="_10_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_java8_features.Demo20" />
+    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo8" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_8_java8_features.*" />
+          <option name="PATTERN" value="_10_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_final_keyword.Demo4" />
+    <configuration name="_10_object_class.Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo4" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_9_final_keyword.*" />
+          <option name="PATTERN" value="_10_object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,21 +240,29 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo16" />
-      <item itemvalue="Application.Demo17" />
-      <item itemvalue="Application.Demo18" />
-      <item itemvalue="Application.Demo20" />
-      <item itemvalue="Application.Demo4" />
+      <item itemvalue="Application.Demo5" />
+      <item itemvalue="Application.Demo6" />
+      <item itemvalue="Application.Demo7" />
+      <item itemvalue="Application.Demo8" />
+      <item itemvalue="Application._10_object_class.Demo4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo20" />
-        <item itemvalue="Application.Demo18" />
-        <item itemvalue="Application.Demo17" />
-        <item itemvalue="Application.Demo16" />
+        <item itemvalue="Application.Demo8" />
+        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application._10_object_class.Demo4" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -265,6 +273,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737524358337</updated>
       <workItem from="1742445169921" duration="5273000" />
+      <workItem from="1742790829469" duration="4292000" />
     </task>
     <servers />
   </component>
