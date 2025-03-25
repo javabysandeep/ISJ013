@@ -77,7 +77,9 @@
     "Application.CourseMgmtApp.executor": "Run",
     "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
+    "Application.Demo10DeepCopy.executor": "Run",
     "Application.Demo11.executor": "Run",
+    "Application.Demo11DeepCopy.executor": "Run",
     "Application.Demo12.executor": "Run",
     "Application.Demo13.executor": "Run",
     "Application.Demo14.executor": "Run",
@@ -173,9 +175,9 @@
       <recent name="_6_class_components._4_blocks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo8">
-    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo5" />
+  <component name="RunManager" selected="Application.Demo11DeepCopy">
+    <configuration name="Demo10DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo10DeepCopy" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -187,8 +189,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo6" />
+    <configuration name="Demo11DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo11DeepCopy" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +228,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10_object_class.Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo4" />
+    <configuration name="Demo9ShalloCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo9ShalloCopy" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -240,19 +242,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo5" />
-      <item itemvalue="Application.Demo6" />
+      <item itemvalue="Application.Demo10DeepCopy" />
+      <item itemvalue="Application.Demo11DeepCopy" />
+      <item itemvalue="Application.Demo9ShalloCopy" />
       <item itemvalue="Application.Demo7" />
       <item itemvalue="Application.Demo8" />
-      <item itemvalue="Application._10_object_class.Demo4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo11DeepCopy" />
+        <item itemvalue="Application.Demo10DeepCopy" />
+        <item itemvalue="Application.Demo9ShalloCopy" />
         <item itemvalue="Application.Demo8" />
         <item itemvalue="Application.Demo7" />
-        <item itemvalue="Application.Demo6" />
-        <item itemvalue="Application.Demo5" />
-        <item itemvalue="Application._10_object_class.Demo4" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +275,8 @@
       <option name="presentableId" value="Default" />
       <updated>1737524358337</updated>
       <workItem from="1742445169921" duration="5273000" />
-      <workItem from="1742790829469" duration="4292000" />
+      <workItem from="1742790829469" duration="4694000" />
+      <workItem from="1742877120907" duration="4737000" />
     </task>
     <servers />
   </component>
