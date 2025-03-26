@@ -38,8 +38,8 @@ public class Demo11DeepCopy {
             @Override
             protected Object clone() throws CloneNotSupportedException {
                 Order order = (Order) super.clone();
-                Product original = order.getProduct();
-                Product copy = (Product)original.clone();
+                Product originalProduct = order.getProduct();
+                Product copy = (Product)originalProduct.clone();
                 order.setProduct(copy);
                 return order;
             }

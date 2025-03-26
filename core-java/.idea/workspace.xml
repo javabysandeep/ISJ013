@@ -39,6 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_object_class/Demo11DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_object_class/Demo11DeepCopy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,7 @@
     "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
     "Application.Demo10DeepCopy.executor": "Run",
+    "Application.Demo10MaxElement.executor": "Run",
     "Application.Demo11.executor": "Run",
     "Application.Demo11DeepCopy.executor": "Run",
     "Application.Demo12.executor": "Run",
@@ -117,12 +119,14 @@
     "Application.Demo5.executor": "Run",
     "Application.Demo5LocalInnerClass.executor": "Run",
     "Application.Demo5ReverseNumber.executor": "Run",
-    "Application.Demo6.executor": "Run",
+    "Application.Demo6.executor": "Debug",
     "Application.Demo6CallByValue.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
     "Application.Demo7.executor": "Run",
     "Application.Demo8.executor": "Run",
+    "Application.Demo8ArrayElementSum.executor": "Run",
     "Application.Demo9.executor": "Run",
+    "Application.Demo9LinearSearch.executor": "Run",
     "Application.Expense.executor": "Debug",
     "Application.LombokAppTest.executor": "Run",
     "Application.Student.executor": "Run",
@@ -168,20 +172,20 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_11_array" />
       <recent name="_10_object_class" />
       <recent name="_8_java8_features" />
       <recent name="_7_oops.inheritance" />
       <recent name="_6_class_components._5_nestedClases" />
-      <recent name="_6_class_components._4_blocks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo11DeepCopy">
-    <configuration name="Demo10DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo10DeepCopy" />
+  <component name="RunManager" selected="Application.Demo11MinElement">
+    <configuration name="Demo10MaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo10MaxElement" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_object_class.*" />
+          <option name="PATTERN" value="_11_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo11DeepCopy" />
+    <configuration name="Demo11MinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo11MinElement" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_object_class.*" />
+          <option name="PATTERN" value="_11_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo7" />
+    <configuration name="Demo7PrintingReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo7PrintingReverse" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_object_class.*" />
+          <option name="PATTERN" value="_11_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo8" />
+    <configuration name="Demo8ArrayElementSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo8ArrayElementSum" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_object_class.*" />
+          <option name="PATTERN" value="_11_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo9ShalloCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_object_class.Demo9ShalloCopy" />
+    <configuration name="Demo9LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo9LinearSearch" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_object_class.*" />
+          <option name="PATTERN" value="_11_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo10DeepCopy" />
-      <item itemvalue="Application.Demo11DeepCopy" />
-      <item itemvalue="Application.Demo9ShalloCopy" />
-      <item itemvalue="Application.Demo7" />
-      <item itemvalue="Application.Demo8" />
+      <item itemvalue="Application.Demo10MaxElement" />
+      <item itemvalue="Application.Demo11MinElement" />
+      <item itemvalue="Application.Demo8ArrayElementSum" />
+      <item itemvalue="Application.Demo9LinearSearch" />
+      <item itemvalue="Application.Demo7PrintingReverse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo11DeepCopy" />
-        <item itemvalue="Application.Demo10DeepCopy" />
-        <item itemvalue="Application.Demo9ShalloCopy" />
-        <item itemvalue="Application.Demo8" />
-        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo11MinElement" />
+        <item itemvalue="Application.Demo10MaxElement" />
+        <item itemvalue="Application.Demo9LinearSearch" />
+        <item itemvalue="Application.Demo8ArrayElementSum" />
+        <item itemvalue="Application.Demo7PrintingReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +280,9 @@
       <updated>1737524358337</updated>
       <workItem from="1742445169921" duration="5273000" />
       <workItem from="1742790829469" duration="4694000" />
-      <workItem from="1742877120907" duration="4737000" />
+      <workItem from="1742877120907" duration="5174000" />
+      <workItem from="1742884850788" duration="46000" />
+      <workItem from="1742963992661" duration="3688000" />
     </task>
     <servers />
   </component>
@@ -505,6 +511,11 @@
           <url>file://$PROJECT_DIR$/src/_7_oops/abstraction/Demo1.java</url>
           <line>45</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_11_array/Demo6.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo35Factorial.java</url>
