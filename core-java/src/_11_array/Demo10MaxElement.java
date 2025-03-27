@@ -10,6 +10,8 @@ public class Demo10MaxElement {
             }
         }
         System.out.println(max);
+        //array empty
+        //
 
 
     }

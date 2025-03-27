@@ -39,7 +39,8 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_object_class/Demo11DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_object_class/Demo11DeepCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_array/Demo10MaxElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_array/Demo10MaxElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_array/Demo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_array/Demo22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,22 +80,34 @@
     "Application.Demo1.executor": "Run",
     "Application.Demo10.executor": "Run",
     "Application.Demo10DeepCopy.executor": "Run",
-    "Application.Demo10MaxElement.executor": "Run",
+    "Application.Demo10MaxElement.executor": "Debug",
     "Application.Demo11.executor": "Run",
     "Application.Demo11DeepCopy.executor": "Run",
+    "Application.Demo11MinElement.executor": "Debug",
     "Application.Demo12.executor": "Run",
+    "Application.Demo12SecondMax.executor": "Debug",
     "Application.Demo13.executor": "Run",
+    "Application.Demo13SecondMin.executor": "Run",
     "Application.Demo14.executor": "Run",
+    "Application.Demo14Reverse.executor": "Run",
     "Application.Demo15.executor": "Run",
+    "Application.Demo15Reverse.executor": "Debug",
     "Application.Demo16.executor": "Run",
+    "Application.Demo16Reverse.executor": "Run",
     "Application.Demo17.executor": "Run",
+    "Application.Demo17MultiDimensional.executor": "Debug",
     "Application.Demo18.executor": "Run",
+    "Application.Demo18MultiDimensional.executor": "Run",
     "Application.Demo18OddNumbers.executor": "Run",
     "Application.Demo19.executor": "Run",
+    "Application.Demo19MultiDimensional.executor": "Run",
     "Application.Demo2.executor": "Run",
     "Application.Demo20.executor": "Run",
+    "Application.Demo20Addition.executor": "Run",
     "Application.Demo20Multiplication.executor": "Run",
+    "Application.Demo21.executor": "Run",
     "Application.Demo21Division.executor": "Run",
+    "Application.Demo22.executor": "Run",
     "Application.Demo23Factors.executor": "Run",
     "Application.Demo24PerfectNumber.executor": "Run",
     "Application.Demo25PrimeNumber.executor": "Debug",
@@ -179,9 +192,9 @@
       <recent name="_6_class_components._5_nestedClases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo11MinElement">
-    <configuration name="Demo10MaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo10MaxElement" />
+  <component name="RunManager" selected="Application.Demo22">
+    <configuration name="Demo18MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo18MultiDimensional" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -193,8 +206,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11MinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo11MinElement" />
+    <configuration name="Demo19MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo19MultiDimensional" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo7PrintingReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo7PrintingReverse" />
+    <configuration name="Demo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo20" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -219,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8ArrayElementSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo8ArrayElementSum" />
+    <configuration name="Demo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo21" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -232,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo9LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo9LinearSearch" />
+    <configuration name="Demo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo22" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -246,19 +259,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo10MaxElement" />
-      <item itemvalue="Application.Demo11MinElement" />
-      <item itemvalue="Application.Demo8ArrayElementSum" />
-      <item itemvalue="Application.Demo9LinearSearch" />
-      <item itemvalue="Application.Demo7PrintingReverse" />
+      <item itemvalue="Application.Demo18MultiDimensional" />
+      <item itemvalue="Application.Demo19MultiDimensional" />
+      <item itemvalue="Application.Demo20Addition" />
+      <item itemvalue="Application.Demo21" />
+      <item itemvalue="Application.Demo22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo11MinElement" />
-        <item itemvalue="Application.Demo10MaxElement" />
-        <item itemvalue="Application.Demo9LinearSearch" />
-        <item itemvalue="Application.Demo8ArrayElementSum" />
-        <item itemvalue="Application.Demo7PrintingReverse" />
+        <item itemvalue="Application.Demo22" />
+        <item itemvalue="Application.Demo21" />
+        <item itemvalue="Application.Demo20Addition" />
+        <item itemvalue="Application.Demo19MultiDimensional" />
+        <item itemvalue="Application.Demo18MultiDimensional" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +295,8 @@
       <workItem from="1742790829469" duration="4694000" />
       <workItem from="1742877120907" duration="5174000" />
       <workItem from="1742884850788" duration="46000" />
-      <workItem from="1742963992661" duration="3688000" />
+      <workItem from="1742963992661" duration="4333000" />
+      <workItem from="1743050340753" duration="5027000" />
     </task>
     <servers />
   </component>
@@ -517,6 +531,31 @@
           <line>7</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_11_array/Demo11MinElement.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_11_array/Demo10MaxElement.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_11_array/Demo12SecondMax.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_11_array/Demo15Reverse.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_11_array/Demo17MultiDimensional.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo35Factorial.java</url>
           <line>3</line>
@@ -541,6 +580,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/core_java$Demo8.ic" NAME="Demo8 Coverage Results" MODIFIED="1741065419955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>_7_oops.inheritance.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/core_java$Demo11MinElement.ic" NAME="Demo11MinElement Coverage Results" MODIFIED="1742969213877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>_11_array.*</FILTER>
     </SUITE>
   </component>
 </project>
