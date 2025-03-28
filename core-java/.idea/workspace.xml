@@ -39,8 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_array/Demo10MaxElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_array/Demo10MaxElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_array/Demo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_array/Demo22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_array/_12_string/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_array/_12_string/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,11 +107,17 @@
     "Application.Demo21.executor": "Run",
     "Application.Demo21Division.executor": "Run",
     "Application.Demo22.executor": "Run",
+    "Application.Demo23.executor": "Run",
     "Application.Demo23Factors.executor": "Run",
+    "Application.Demo24.executor": "Run",
     "Application.Demo24PerfectNumber.executor": "Run",
+    "Application.Demo25.executor": "Run",
     "Application.Demo25PrimeNumber.executor": "Debug",
+    "Application.Demo26.executor": "Run",
     "Application.Demo26Pattern1.executor": "Run",
+    "Application.Demo27Duplicate.executor": "Run",
     "Application.Demo27Pattern2.executor": "Run",
+    "Application.Demo28Duplicate.executor": "Run",
     "Application.Demo28Pattern3.executor": "Run",
     "Application.Demo29Pattern4.executor": "Run",
     "Application.Demo3.executor": "Run",
@@ -192,9 +197,22 @@
       <recent name="_6_class_components._5_nestedClases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo22">
-    <configuration name="Demo18MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo18MultiDimensional" />
+  <component name="RunManager" selected="Application.Demo3Find">
+    <configuration name="Demo1ToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array._12_string.Demo1ToUpperCase" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11_array._12_string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo27Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo27Duplicate" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo19MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo19MultiDimensional" />
+    <configuration name="Demo28Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array.Demo28Duplicate" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -219,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo20" />
+    <configuration name="Demo2ToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array._12_string.Demo2ToLowerCase" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array.*" />
+          <option name="PATTERN" value="_11_array._12_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,25 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo21" />
+    <configuration name="Demo3Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_array._12_string.Demo3Find" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo22" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_11_array.*" />
+          <option name="PATTERN" value="_11_array._12_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,19 +264,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo18MultiDimensional" />
-      <item itemvalue="Application.Demo19MultiDimensional" />
-      <item itemvalue="Application.Demo20Addition" />
-      <item itemvalue="Application.Demo21" />
-      <item itemvalue="Application.Demo22" />
+      <item itemvalue="Application.Demo1ToUpperCase" />
+      <item itemvalue="Application.Demo27Duplicate" />
+      <item itemvalue="Application.Demo28Duplicate" />
+      <item itemvalue="Application.Demo2ToLowerCase" />
+      <item itemvalue="Application.Demo3Find" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo22" />
-        <item itemvalue="Application.Demo21" />
-        <item itemvalue="Application.Demo20Addition" />
-        <item itemvalue="Application.Demo19MultiDimensional" />
-        <item itemvalue="Application.Demo18MultiDimensional" />
+        <item itemvalue="Application.Demo3Find" />
+        <item itemvalue="Application.Demo2ToLowerCase" />
+        <item itemvalue="Application.Demo1ToUpperCase" />
+        <item itemvalue="Application.Demo28Duplicate" />
+        <item itemvalue="Application.Demo27Duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +301,8 @@
       <workItem from="1742877120907" duration="5174000" />
       <workItem from="1742884850788" duration="46000" />
       <workItem from="1742963992661" duration="4333000" />
-      <workItem from="1743050340753" duration="5027000" />
+      <workItem from="1743050340753" duration="5722000" />
+      <workItem from="1743136642329" duration="3416000" />
     </task>
     <servers />
   </component>
