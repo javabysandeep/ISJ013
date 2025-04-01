@@ -39,7 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_array/_12_string/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_array/_12_string/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_12_string_handling/Demo12SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_12_string_handling/Demo12SubString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +80,14 @@
     "Application.Demo10.executor": "Run",
     "Application.Demo10DeepCopy.executor": "Run",
     "Application.Demo10MaxElement.executor": "Debug",
+    "Application.Demo10Trim.executor": "Run",
     "Application.Demo11.executor": "Run",
     "Application.Demo11DeepCopy.executor": "Run",
     "Application.Demo11MinElement.executor": "Debug",
+    "Application.Demo11Reading.executor": "Run",
     "Application.Demo12.executor": "Run",
     "Application.Demo12SecondMax.executor": "Debug",
+    "Application.Demo12SubString.executor": "Run",
     "Application.Demo13.executor": "Run",
     "Application.Demo13SecondMin.executor": "Run",
     "Application.Demo14.executor": "Run",
@@ -120,6 +123,7 @@
     "Application.Demo28Duplicate.executor": "Run",
     "Application.Demo28Pattern3.executor": "Run",
     "Application.Demo29Pattern4.executor": "Run",
+    "Application.Demo2ToLowerCase.executor": "Run",
     "Application.Demo3.executor": "Run",
     "Application.Demo30Pattern5.executor": "Run",
     "Application.Demo31Pattern6.executor": "Run",
@@ -129,6 +133,7 @@
     "Application.Demo35Factorial.executor": "Run",
     "Application.Demo36PrimeNumberRange.executor": "Run",
     "Application.Demo37PerfectRange.executor": "Run",
+    "Application.Demo3Find.executor": "Run",
     "Application.Demo3StaticNestedClass.executor": "Run",
     "Application.Demo3SumOfCubeOfDigits.executor": "Run",
     "Application.Demo4.executor": "Run",
@@ -137,14 +142,17 @@
     "Application.Demo5.executor": "Run",
     "Application.Demo5LocalInnerClass.executor": "Run",
     "Application.Demo5ReverseNumber.executor": "Run",
-    "Application.Demo6.executor": "Debug",
+    "Application.Demo6.executor": "Run",
     "Application.Demo6CallByValue.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
     "Application.Demo7.executor": "Run",
+    "Application.Demo7Concat.executor": "Run",
     "Application.Demo8.executor": "Run",
     "Application.Demo8ArrayElementSum.executor": "Run",
+    "Application.Demo8Case.executor": "Run",
     "Application.Demo9.executor": "Run",
     "Application.Demo9LinearSearch.executor": "Run",
+    "Application.Demo9Replace.executor": "Run",
     "Application.Expense.executor": "Debug",
     "Application.LombokAppTest.executor": "Run",
     "Application.Student.executor": "Run",
@@ -190,20 +198,20 @@
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_12_string_handling" />
+      <recent name="_11_array._12_string" />
       <recent name="_11_array" />
       <recent name="_10_object_class" />
       <recent name="_8_java8_features" />
-      <recent name="_7_oops.inheritance" />
-      <recent name="_6_class_components._5_nestedClases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo3Find">
-    <configuration name="Demo1ToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array._12_string.Demo1ToUpperCase" />
+  <component name="RunManager" selected="Application.Demo14Split">
+    <configuration name="Demo10Trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo10Trim" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array._12_string.*" />
+          <option name="PATTERN" value="_12_string_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo27Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo27Duplicate" />
+    <configuration name="Demo11Reading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo11Reading" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array.*" />
+          <option name="PATTERN" value="_12_string_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo28Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array.Demo28Duplicate" />
+    <configuration name="Demo12SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo12SubString" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array.*" />
+          <option name="PATTERN" value="_12_string_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2ToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array._12_string.Demo2ToLowerCase" />
+    <configuration name="Demo13StartsWithEndsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo13StartsWithEndsWith" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array._12_string.*" />
+          <option name="PATTERN" value="_12_string_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_array._12_string.Demo3Find" />
+    <configuration name="Demo14Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo14Split" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_array._12_string.*" />
+          <option name="PATTERN" value="_12_string_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,19 +272,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo1ToUpperCase" />
-      <item itemvalue="Application.Demo27Duplicate" />
-      <item itemvalue="Application.Demo28Duplicate" />
-      <item itemvalue="Application.Demo2ToLowerCase" />
-      <item itemvalue="Application.Demo3Find" />
+      <item itemvalue="Application.Demo10Trim" />
+      <item itemvalue="Application.Demo11Reading" />
+      <item itemvalue="Application.Demo12SubString" />
+      <item itemvalue="Application.Demo13StartsWithEndsWith" />
+      <item itemvalue="Application.Demo14Split" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo3Find" />
-        <item itemvalue="Application.Demo2ToLowerCase" />
-        <item itemvalue="Application.Demo1ToUpperCase" />
-        <item itemvalue="Application.Demo28Duplicate" />
-        <item itemvalue="Application.Demo27Duplicate" />
+        <item itemvalue="Application.Demo14Split" />
+        <item itemvalue="Application.Demo13StartsWithEndsWith" />
+        <item itemvalue="Application.Demo12SubString" />
+        <item itemvalue="Application.Demo11Reading" />
+        <item itemvalue="Application.Demo10Trim" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +310,8 @@
       <workItem from="1742884850788" duration="46000" />
       <workItem from="1742963992661" duration="4333000" />
       <workItem from="1743050340753" duration="5722000" />
-      <workItem from="1743136642329" duration="3416000" />
+      <workItem from="1743136642329" duration="5221000" />
+      <workItem from="1743484779877" duration="2274000" />
     </task>
     <servers />
   </component>
