@@ -39,7 +39,6 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_12_string_handling/Demo12SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_12_string_handling/Demo12SubString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,17 +89,22 @@
     "Application.Demo12SubString.executor": "Run",
     "Application.Demo13.executor": "Run",
     "Application.Demo13SecondMin.executor": "Run",
+    "Application.Demo13StartsWithEndsWith.executor": "Run",
     "Application.Demo14.executor": "Run",
     "Application.Demo14Reverse.executor": "Run",
+    "Application.Demo14Split.executor": "Run",
     "Application.Demo15.executor": "Run",
-    "Application.Demo15Reverse.executor": "Debug",
+    "Application.Demo15Reverse.executor": "Run",
     "Application.Demo16.executor": "Run",
     "Application.Demo16Reverse.executor": "Run",
+    "Application.Demo16StringBuilder.executor": "Run",
     "Application.Demo17.executor": "Run",
     "Application.Demo17MultiDimensional.executor": "Debug",
+    "Application.Demo17StringBuilder.executor": "Run",
     "Application.Demo18.executor": "Run",
     "Application.Demo18MultiDimensional.executor": "Run",
     "Application.Demo18OddNumbers.executor": "Run",
+    "Application.Demo18StringBuffer.executor": "Run",
     "Application.Demo19.executor": "Run",
     "Application.Demo19MultiDimensional.executor": "Run",
     "Application.Demo2.executor": "Run",
@@ -205,9 +209,9 @@
       <recent name="_8_java8_features" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo14Split">
-    <configuration name="Demo10Trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo10Trim" />
+  <component name="RunManager" selected="Application.Demo19Conversion">
+    <configuration name="Demo15Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo15Reverse" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -219,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11Reading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo11Reading" />
+    <configuration name="Demo16StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo16StringBuilder" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -232,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo12SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo12SubString" />
+    <configuration name="Demo17StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo17StringBuilder" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -245,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo13StartsWithEndsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo13StartsWithEndsWith" />
+    <configuration name="Demo18StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo18StringBuffer" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -258,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo14Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo14Split" />
+    <configuration name="Demo19Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo19Conversion" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -272,19 +276,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo10Trim" />
-      <item itemvalue="Application.Demo11Reading" />
-      <item itemvalue="Application.Demo12SubString" />
-      <item itemvalue="Application.Demo13StartsWithEndsWith" />
-      <item itemvalue="Application.Demo14Split" />
+      <item itemvalue="Application.Demo15Reverse" />
+      <item itemvalue="Application.Demo16StringBuilder" />
+      <item itemvalue="Application.Demo17StringBuilder" />
+      <item itemvalue="Application.Demo18StringBuffer" />
+      <item itemvalue="Application.Demo19Conversion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo14Split" />
-        <item itemvalue="Application.Demo13StartsWithEndsWith" />
-        <item itemvalue="Application.Demo12SubString" />
-        <item itemvalue="Application.Demo11Reading" />
-        <item itemvalue="Application.Demo10Trim" />
+        <item itemvalue="Application.Demo19Conversion" />
+        <item itemvalue="Application.Demo18StringBuffer" />
+        <item itemvalue="Application.Demo17StringBuilder" />
+        <item itemvalue="Application.Demo16StringBuilder" />
+        <item itemvalue="Application.Demo15Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +315,8 @@
       <workItem from="1742963992661" duration="4333000" />
       <workItem from="1743050340753" duration="5722000" />
       <workItem from="1743136642329" duration="5221000" />
-      <workItem from="1743484779877" duration="2274000" />
+      <workItem from="1743484779877" duration="2600000" />
+      <workItem from="1743568551465" duration="2383000" />
     </task>
     <servers />
   </component>
