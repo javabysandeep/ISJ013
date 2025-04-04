@@ -39,7 +39,6 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_13_exception_handling/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_13_exception_handling/Demo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,7 @@
     &quot;Application.Demo28Pattern3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Demo29Pattern4.executor&quot;: &quot;Run&quot;,
     &quot;Application.Demo2ToLowerCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo3.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Demo30Pattern5.executor&quot;: &quot;Run&quot;,
     &quot;Application.Demo31Pattern6.executor&quot;: &quot;Run&quot;,
     &quot;Application.Demo32Pattern7.executor&quot;: &quot;Run&quot;,
@@ -199,21 +198,27 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="_13_exception_handling" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\" />
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\ISJ013\core-java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_13_exception_handling" />
       <recent name="_12_string_handling" />
       <recent name="_11_array._12_string" />
       <recent name="_11_array" />
       <recent name="_10_object_class" />
-      <recent name="_8_java8_features" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo3">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo1" />
+  <component name="RunManager" selected="Application.Demo19">
+    <configuration name="Demo14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo14" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -225,34 +230,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo18StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo18StringBuffer" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_12_string_handling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo19Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_string_handling.Demo19Conversion" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_12_string_handling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo2" />
+    <configuration name="Demo16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo16" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -264,8 +243,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo3" />
+    <configuration name="Demo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo17" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13_exception_handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo18" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13_exception_handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_exception_handling.Demo19" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -278,19 +283,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.Demo2" />
-      <item itemvalue="Application.Demo3" />
-      <item itemvalue="Application.Demo18StringBuffer" />
-      <item itemvalue="Application.Demo19Conversion" />
+      <item itemvalue="Application.Demo14" />
+      <item itemvalue="Application.Demo16" />
+      <item itemvalue="Application.Demo17" />
+      <item itemvalue="Application.Demo18" />
+      <item itemvalue="Application.Demo19" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo19Conversion" />
-        <item itemvalue="Application.Demo18StringBuffer" />
+        <item itemvalue="Application.Demo19" />
+        <item itemvalue="Application.Demo18" />
+        <item itemvalue="Application.Demo17" />
+        <item itemvalue="Application.Demo16" />
+        <item itemvalue="Application.Demo14" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +325,8 @@
       <workItem from="1743484779877" duration="2600000" />
       <workItem from="1743568551465" duration="2889000" />
       <workItem from="1743574034745" duration="451000" />
-      <workItem from="1743655342558" duration="3501000" />
+      <workItem from="1743655342558" duration="4296000" />
+      <workItem from="1743741361620" duration="3594000" />
     </task>
     <servers />
   </component>
@@ -579,6 +585,41 @@
           <url>file://$PROJECT_DIR$/src/_11_array/Demo17MultiDimensional.java</url>
           <line>11</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_13_exception_handling/Demo3.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo35Factorial.java</url>
