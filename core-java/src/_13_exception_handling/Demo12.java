@@ -8,17 +8,17 @@ public class Demo12 {
             System.out.println(10 / 0);
             int[] array = {};
             System.out.println(array[0]);
-        }
-        catch (Exception e) {
+        }/* catch (Exception e) {
             System.out.println("generic exception handler");
-        }
-        catch (ArithmeticException e) {
+        }*/ catch (ArithmeticException e) {
             System.out.println("invalid denominator");
         } catch (NullPointerException e) {
             System.out.println("null pointer");
         } catch (ArrayIndexOutOfBoundsException ae) {
             System.out.println("invalid index");
         }
+
+        //unreachable cacth block error
 
     }
 }
