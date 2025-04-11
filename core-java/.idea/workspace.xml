@@ -39,7 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_14_multithreading/Demo19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14_multithreading/Demo19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14_multithreading/Demo21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14_multithreading/Demo21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,33 +222,7 @@
       <recent name="_11_array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo19">
-    <configuration name="Demo15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14_multithreading.Demo15" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_14_multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14_multithreading.Demo16" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_14_multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo21">
     <configuration name="Demo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_14_multithreading.Demo17" />
       <module name="core-java" />
@@ -288,20 +262,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_multithreading.Demo20" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_multithreading.Demo21" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Demo15" />
-      <item itemvalue="Application.Demo16" />
+      <item itemvalue="Application.Demo20" />
+      <item itemvalue="Application.Demo21" />
       <item itemvalue="Application.Demo17" />
       <item itemvalue="Application.Demo18" />
       <item itemvalue="Application.Demo19" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo21" />
+        <item itemvalue="Application.Demo20" />
         <item itemvalue="Application.Demo19" />
         <item itemvalue="Application.Demo18" />
         <item itemvalue="Application.Demo17" />
-        <item itemvalue="Application.Demo16" />
-        <item itemvalue="Application.Demo15" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +337,8 @@
       <workItem from="1744087218845" duration="1806000" />
       <workItem from="1744174449377" duration="4119000" />
       <workItem from="1744194725098" duration="596000" />
-      <workItem from="1744260144403" duration="4134000" />
+      <workItem from="1744260144403" duration="5074000" />
+      <workItem from="1744347727463" duration="2909000" />
     </task>
     <servers />
   </component>
