@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Demo5 {
     public static void main(String[] args) {
-        //homo, hetero, duplicate, insertion order, any number of nulls
+        //homo, hetero, duplicate, any number of nulls, insertion order
         ArrayList list = new ArrayList();
         list.add("A");
         list.add("A");

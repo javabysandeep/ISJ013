@@ -13,6 +13,7 @@ public class Demo8 {
         list.add("C");
         list.add("D");
         list.add("E");
+
         Predicate<String> predicate = str -> str.startsWith("A");
         System.out.println("Before removal "+list);
         list.removeIf(predicate);

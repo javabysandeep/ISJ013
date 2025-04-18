@@ -18,8 +18,8 @@ public class Demo6 {
         list1.add(100.50f);
 
         ArrayList list2 = new ArrayList();
-        list2.addAll(list1);
         list2.add("some extra elements in list2");
+        list2.addAll(list1);
         System.out.println(list2);
 
         System.out.println("whether B is present or not : " + list2.contains("B"));
@@ -33,5 +33,6 @@ public class Demo6 {
 
         list2.clear();
         System.out.println("After clear : " + list2);
+        System.out.println("list 1"+list1);
     }
 }
