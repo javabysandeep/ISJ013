@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10ad998b-91fb-4c8b-90c6-b4e965c8f39e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/advance-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_1_introduction/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/Demo2LeapYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_1_arithmetic/Demo6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_2_string_concatenation/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_3_assignment_operator/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_3_assignment_operator/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_4_shorthand_arithmetic/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_5_increment_decrement/Demo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_6_relational_operators/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_6_relational_operators/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_6_relational_operators/Demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_7_logical_operators/Demo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_8_bitwise_operators/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advance-java/src/_3_operators/_9_conditional_operators/Demo1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_15_collection/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/Demo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_15_collection/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/Demo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_15_collection/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/Demo8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,145 +35,167 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CourseMgmtApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo10DeepCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo10MaxElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Demo10Trim.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo11DeepCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo11MinElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Demo11Reading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo12SecondMax.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Demo12SubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo13SecondMin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo13StartsWithEndsWith.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo14Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo14Split.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo15Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo16Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo16StringBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo17.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo17MultiDimensional.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Demo17StringBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo18.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo18MultiDimensional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo18OddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo18StringBuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo19.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo19Conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo19MultiDimensional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo20Addition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo20Multiplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo21Division.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo22.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo23.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo23Factors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo24PerfectNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo25.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo25PrimeNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Demo26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo26Pattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo27Duplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo27Pattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo28Duplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo28Pattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo29Pattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo2ToLowerCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo30Pattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo31Pattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo32Pattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo33Pattern8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo34Pattern9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo35Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo36PrimeNumberRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo37PerfectRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo3ByUsingThreadClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo3Find.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo3StaticNestedClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo3SumOfCubeOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo4Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo4NestedClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo5LocalInnerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo5ReverseNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo5UsingRunnableInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo6CallByValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo6PalindromeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo6UsingRunnableInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo7Concat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo7UsingRunnableInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo8ArrayElementSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo8Case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo8UsingRunnableInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo9LinearSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo9Replace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Expense.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LombokAppTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_object_class.Demo4.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._3_forDemos.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._3_forDemos.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._3_forDemos.Demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._3_forDemos.Demo5.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._6_breakdemo.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._6_breakdemo.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application._6_class_components.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._6_class_components.Demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application._6_class_components._2_methods.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._6_class_components._4_blocks.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._7_oops.abstraction.Demo1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._7_oops.abstraction.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._7_oops.inheritance.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._8_java8_features.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application._8_java8_features.Demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application._8_java8_features.Demo4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sande/Downloads/lombok-1.18.36.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.2109375&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.CourseMgmtApp.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Demo10.executor": "Run",
+    "Application.Demo10DeepCopy.executor": "Run",
+    "Application.Demo10MaxElement.executor": "Debug",
+    "Application.Demo10Size.executor": "Run",
+    "Application.Demo10Trim.executor": "Run",
+    "Application.Demo11.executor": "Run",
+    "Application.Demo11DeepCopy.executor": "Run",
+    "Application.Demo11Get.executor": "Run",
+    "Application.Demo11MinElement.executor": "Debug",
+    "Application.Demo11Reading.executor": "Run",
+    "Application.Demo12.executor": "Run",
+    "Application.Demo12IterateTraditionalForLoop.executor": "Run",
+    "Application.Demo12SecondMax.executor": "Debug",
+    "Application.Demo12SubString.executor": "Run",
+    "Application.Demo13.executor": "Run",
+    "Application.Demo13IterateEnhancedForLoop.executor": "Debug",
+    "Application.Demo13SecondMin.executor": "Run",
+    "Application.Demo13StartsWithEndsWith.executor": "Run",
+    "Application.Demo14.executor": "Run",
+    "Application.Demo14IterateForEachMethod.executor": "Run",
+    "Application.Demo14Reverse.executor": "Run",
+    "Application.Demo14Split.executor": "Run",
+    "Application.Demo15.executor": "Run",
+    "Application.Demo15IterateForEachMethod.executor": "Run",
+    "Application.Demo15Reverse.executor": "Run",
+    "Application.Demo16.executor": "Run",
+    "Application.Demo16IterateElementsUsingIterator.executor": "Run",
+    "Application.Demo16Reverse.executor": "Run",
+    "Application.Demo16StringBuilder.executor": "Run",
+    "Application.Demo17.executor": "Run",
+    "Application.Demo17MultiDimensional.executor": "Debug",
+    "Application.Demo17Remove.executor": "Run",
+    "Application.Demo17StringBuilder.executor": "Run",
+    "Application.Demo18.executor": "Run",
+    "Application.Demo18MultiDimensional.executor": "Run",
+    "Application.Demo18OddNumbers.executor": "Run",
+    "Application.Demo18RemoveIterator.executor": "Run",
+    "Application.Demo18StringBuffer.executor": "Run",
+    "Application.Demo19.executor": "Run",
+    "Application.Demo19Conversion.executor": "Run",
+    "Application.Demo19MultiDimensional.executor": "Run",
+    "Application.Demo19Sort.executor": "Run",
+    "Application.Demo1Add.executor": "Run",
+    "Application.Demo1CustomLinkedList.executor": "Debug",
+    "Application.Demo2.executor": "Run",
+    "Application.Demo20.executor": "Run",
+    "Application.Demo20Addition.executor": "Run",
+    "Application.Demo20Multiplication.executor": "Run",
+    "Application.Demo21.executor": "Run",
+    "Application.Demo21Division.executor": "Run",
+    "Application.Demo22.executor": "Run",
+    "Application.Demo23.executor": "Run",
+    "Application.Demo23Factors.executor": "Run",
+    "Application.Demo24.executor": "Run",
+    "Application.Demo24PerfectNumber.executor": "Run",
+    "Application.Demo25.executor": "Run",
+    "Application.Demo25PrimeNumber.executor": "Debug",
+    "Application.Demo26.executor": "Run",
+    "Application.Demo26Pattern1.executor": "Run",
+    "Application.Demo27Duplicate.executor": "Run",
+    "Application.Demo27Pattern2.executor": "Run",
+    "Application.Demo28Duplicate.executor": "Run",
+    "Application.Demo28Pattern3.executor": "Run",
+    "Application.Demo29Pattern4.executor": "Run",
+    "Application.Demo2RemoveClear.executor": "Run",
+    "Application.Demo2ToLowerCase.executor": "Run",
+    "Application.Demo3.executor": "Run",
+    "Application.Demo30Pattern5.executor": "Run",
+    "Application.Demo31Pattern6.executor": "Run",
+    "Application.Demo32Pattern7.executor": "Run",
+    "Application.Demo33Pattern8.executor": "Run",
+    "Application.Demo34Pattern9.executor": "Run",
+    "Application.Demo35Factorial.executor": "Run",
+    "Application.Demo36PrimeNumberRange.executor": "Run",
+    "Application.Demo37PerfectRange.executor": "Run",
+    "Application.Demo3ByUsingThreadClass.executor": "Run",
+    "Application.Demo3Find.executor": "Run",
+    "Application.Demo3RemoveAll.executor": "Run",
+    "Application.Demo3StaticNestedClass.executor": "Run",
+    "Application.Demo3SumOfCubeOfDigits.executor": "Run",
+    "Application.Demo4.executor": "Run",
+    "Application.Demo4Armstrong.executor": "Run",
+    "Application.Demo4NestedClass.executor": "Run",
+    "Application.Demo4RetainsAll.executor": "Run",
+    "Application.Demo5.executor": "Run",
+    "Application.Demo5LocalInnerClass.executor": "Run",
+    "Application.Demo5RemoveIf.executor": "Run",
+    "Application.Demo5ReverseNumber.executor": "Run",
+    "Application.Demo5UsingRunnableInterface.executor": "Run",
+    "Application.Demo6.executor": "Run",
+    "Application.Demo6CallByValue.executor": "Run",
+    "Application.Demo6PalindromeNumber.executor": "Run",
+    "Application.Demo6RemoveIf.executor": "Run",
+    "Application.Demo6UsingRunnableInterface.executor": "Run",
+    "Application.Demo7.executor": "Run",
+    "Application.Demo7AddAll.executor": "Run",
+    "Application.Demo7Concat.executor": "Run",
+    "Application.Demo7UsingRunnableInterface.executor": "Run",
+    "Application.Demo8.executor": "Run",
+    "Application.Demo8ArrayElementSum.executor": "Run",
+    "Application.Demo8Case.executor": "Run",
+    "Application.Demo8RemoveIf.executor": "Run",
+    "Application.Demo8UsingRunnableInterface.executor": "Run",
+    "Application.Demo9.executor": "Run",
+    "Application.Demo9ContainsContainsAll.executor": "Run",
+    "Application.Demo9LinearSearch.executor": "Run",
+    "Application.Demo9Replace.executor": "Run",
+    "Application.Expense.executor": "Debug",
+    "Application.LombokAppTest.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application._10_object_class.Demo4.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo1.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo2.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo3.executor": "Run",
+    "Application._4_control_statements._3_forDemos.Demo5.executor": "Run",
+    "Application._4_control_statements._6_breakdemo.Demo1.executor": "Run",
+    "Application._4_control_statements._6_breakdemo.Demo2.executor": "Run",
+    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo1.executor": "Run",
+    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo2.executor": "Run",
+    "Application._4_control_statements._7_conitnueDemo._6_breakdemo.Demo3.executor": "Run",
+    "Application._6_class_components.Demo1.executor": "Run",
+    "Application._6_class_components.Demo3.executor": "Run",
+    "Application._6_class_components._2_methods.Demo1.executor": "Run",
+    "Application._6_class_components._4_blocks.Demo1.executor": "Run",
+    "Application._7_oops.abstraction.Demo1.executor": "Debug",
+    "Application._7_oops.abstraction.Demo2.executor": "Run",
+    "Application._7_oops.inheritance.Demo1.executor": "Run",
+    "Application._8_java8_features.Demo1.executor": "Run",
+    "Application._8_java8_features.Demo2.executor": "Run",
+    "Application._8_java8_features.Demo4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Work/ISJ013/core-java/src/_15_collection/list/linkedListDemos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.2109375",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="_13_exception_handling" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\ISJ013\core-java\src\_15_collection\list\linkedListDemos" />
+      <recent name="C:\Work\ISJ013\core-java\src\_15_collection\list\vectorDemos" />
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\" />
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
@@ -217,20 +203,20 @@
       <recent name="C:\Work\ISJ013\core-java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_15_collection.list.arrayListDemos" />
       <recent name="_15_collection" />
       <recent name="_14_multithreading" />
       <recent name="_13_exception_handling" />
       <recent name="_12_string_handling" />
-      <recent name="_11_array._12_string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo8">
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.Demo4" />
+  <component name="RunManager" selected="Application.Demo1CustomLinkedList">
+    <configuration name="Demo15IterateForEachMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection.list.vectorDemos.Demo15IterateForEachMethod" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.*" />
+          <option name="PATTERN" value="_15_collection.list.vectorDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.Demo5" />
+    <configuration name="Demo17Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection.list.vectorDemos.Demo17Remove" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.*" />
+          <option name="PATTERN" value="_15_collection.list.vectorDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.Demo6" />
+    <configuration name="Demo19Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection.list.vectorDemos.Demo19Sort" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.*" />
+          <option name="PATTERN" value="_15_collection.list.vectorDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.Demo8" />
+    <configuration name="Demo1CustomLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection.list.linkedListDemos.Demo1CustomLinkedList" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.*" />
+          <option name="PATTERN" value="_15_collection.list.linkedListDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.Demo9" />
+    <configuration name="Demo7AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection.list.vectorDemos.Demo7AddAll" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.*" />
+          <option name="PATTERN" value="_15_collection.list.vectorDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo4" />
-      <item itemvalue="Application.Demo5" />
-      <item itemvalue="Application.Demo6" />
-      <item itemvalue="Application.Demo8" />
-      <item itemvalue="Application.Demo9" />
+      <item itemvalue="Application.Demo15IterateForEachMethod" />
+      <item itemvalue="Application.Demo17Remove" />
+      <item itemvalue="Application.Demo19Sort" />
+      <item itemvalue="Application.Demo1CustomLinkedList" />
+      <item itemvalue="Application.Demo7AddAll" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo8" />
-        <item itemvalue="Application.Demo6" />
-        <item itemvalue="Application.Demo5" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo9" />
+        <item itemvalue="Application.Demo1CustomLinkedList" />
+        <item itemvalue="Application.Demo19Sort" />
+        <item itemvalue="Application.Demo17Remove" />
+        <item itemvalue="Application.Demo15IterateForEachMethod" />
+        <item itemvalue="Application.Demo7AddAll" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +329,9 @@
       <workItem from="1744347727463" duration="3295000" />
       <workItem from="1744368123942" duration="400000" />
       <workItem from="1744863148104" duration="5715000" />
-      <workItem from="1744944858538" duration="2682000" />
+      <workItem from="1744944858538" duration="4098000" />
+      <workItem from="1745202565841" duration="4165000" />
+      <workItem from="1745207756373" duration="6662000" />
     </task>
     <servers />
   </component>
@@ -642,6 +630,11 @@
           <url>file://$PROJECT_DIR$/src/_15_collection/Demo1.java</url>
           <line>12</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo1CustomLinkedList.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_4_control_statements/_3_forDemos/Demo35Factorial.java</url>
