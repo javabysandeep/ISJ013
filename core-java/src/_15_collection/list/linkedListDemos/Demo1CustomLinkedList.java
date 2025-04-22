@@ -24,12 +24,12 @@ public class Demo1CustomLinkedList {
             public void add(Object data) {
                 Node newNode = new Node(data);
                 if (head == null || tail == null) {
-                    head = newNode;
+                    head = tail = newNode;
+                } else {
+                    Node temp = tail;
+                    temp.next = newNode;
                     tail = newNode;
                 }
-                Node temp = tail;
-                temp.next = newNode;
-                tail = newNode;
                 size++;
             }
 

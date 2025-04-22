@@ -1,8 +1,7 @@
-package _15_collection;
+package _15_collection.list;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.function.Predicate;
 
 public class Demo9 {
     public static void main(String[] args) {

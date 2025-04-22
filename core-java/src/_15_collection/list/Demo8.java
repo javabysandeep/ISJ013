@@ -1,4 +1,4 @@
-package _15_collection;
+package _15_collection.list;
 
 import java.util.ArrayList;
 import java.util.function.Predicate;

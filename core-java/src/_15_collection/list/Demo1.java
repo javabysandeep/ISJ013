@@ -1,6 +1,4 @@
-package _15_collection;
-
-import java.util.Iterator;
+package _15_collection.list;
 
 public class Demo1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package _15_collection;
+package _15_collection.list;
 
 public class Demo2 {
     public static void main(String[] args) {
