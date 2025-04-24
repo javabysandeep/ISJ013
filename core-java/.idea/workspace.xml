@@ -6,6 +6,109 @@
   <component name="ChangeListManager">
     <list default="true" id="10ad998b-91fb-4c8b-90c6-b4e965c8f39e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/customDsa/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_2_customDsa/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/customDsa/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_2_customDsa/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/customDsa/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_2_customDsa/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/customDsa/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_2_customDsa/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/customDsa/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_2_customDsa/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/Demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/Demo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo10Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo10Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo11Get.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo11Get.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo12IterateTraditionalForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo12IterateTraditionalForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo13IterateEnhancedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo13IterateEnhancedForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo14IterateForEachMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo14IterateForEachMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo15IterateForEachMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo15IterateForEachMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo16IterateElementsUsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo16IterateElementsUsingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo17Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo17Remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo18RemoveIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo18RemoveIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo19Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo19Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo1Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo1Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo2RemoveClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo2RemoveClear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo3RemoveAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo3RemoveAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo4RetainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo4RetainsAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo5RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo5RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo6RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo6RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo7AddAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo7AddAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo8RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo8RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/arrayListDemos/Demo9ContainsContainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/arrayListDemos/Demo9ContainsContainsAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/customObjects/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/customObjects/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo10Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo10Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo11Get.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo11Get.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo12IterateTraditionalForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo12IterateTraditionalForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo13IterateEnhancedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo13IterateEnhancedForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo14IterateForEachMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo14IterateForEachMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo15IterateForEachMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo15IterateForEachMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo16IterateElementsUsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo16IterateElementsUsingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo17Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo17Remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo18RemoveIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo18RemoveIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo19Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo19Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo1Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo1Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo1CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo1CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo2RemoveClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo2RemoveClear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo3RemoveAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo3RemoveAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo4RetainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo4RetainsAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo5RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo5RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo6RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo6RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo7AddAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo7AddAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo8RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo8RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo9ContainsContainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo9ContainsContainsAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparableDemos/Demo1SortingUsingComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparableDemos/Demo1SortingUsingComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparableDemos/Demo2SortingUsingComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparableDemos/Demo2SortingUsingComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparableDemos/Demo3SortingUsingComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparableDemos/Demo3SortingUsingComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparableDemos/Demo4SortingUsingComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparableDemos/Demo4SortingUsingComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparableDemos/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparableDemos/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparableDemos/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparableDemos/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Demo1SortingUsingComparatorCustomObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Demo1SortingUsingComparatorCustomObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Demo2SortingUsingComparatorCustomObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Demo2SortingUsingComparatorCustomObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Demo3SortingUsingComparatorCustomObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Demo3SortingUsingComparatorCustomObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Demo4SortingUsingComparatorCustomObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Demo4SortingUsingComparatorCustomObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/sorting/comparatorDemos/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/sorting/comparatorDemos/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/stackDemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/stackDemo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/stackDemo/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/stackDemo/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo10Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo10Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo11Get.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo11Get.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo12IterateTraditionalForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo12IterateTraditionalForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo13IterateEnhancedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo13IterateEnhancedForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo14IterateForEachMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo14IterateForEachMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo15IterateForEachMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo15IterateForEachMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo16IterateElementsUsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo16IterateElementsUsingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo17Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo17Remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo18RemoveIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo18RemoveIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo19Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo19Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo1Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo1Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo2RemoveClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo2RemoveClear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo3RemoveAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo3RemoveAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo4RetainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo4RetainsAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo5RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo5RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo6RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo6RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo7AddAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo7AddAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo8RemoveIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo8RemoveIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/list/vectorDemos/Demo9ContainsContainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_1_list/vectorDemos/Demo9ContainsContainsAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/hashSetDemos/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/hashSetDemos/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/hashSetDemos/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/hashSetDemos/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/hashSetDemos/Demo3ForEachMethodJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/hashSetDemos/Demo3ForEachMethodJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/hashSetDemos/Demo4RetrieveIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/hashSetDemos/Demo4RetrieveIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/linkedHashSetDemos/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/linkedHashSetDemos/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/treeSetDemos/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/treeSetDemos/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/treeSetDemos/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/treeSetDemos/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/treeSetDemos/Demo3CustomObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/treeSetDemos/Demo3CustomObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/treeSetDemos/Demo4CustomObjectsComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/treeSetDemos/Demo4CustomObjectsComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/treeSetDemos/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/treeSetDemos/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/set/treeSetDemos/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_3_set/treeSetDemos/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/wrapper_classes/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_4_wrapper_classes/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/wrapper_classes/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_4_wrapper_classes/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_collection/wrapper_classes/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_collection/_4_wrapper_classes/Demo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +150,14 @@
     "Application.Demo10DeepCopy.executor": "Run",
     "Application.Demo10MaxElement.executor": "Debug",
     "Application.Demo10Size.executor": "Run",
+    "Application.Demo10TreeMap.executor": "Run",
     "Application.Demo10Trim.executor": "Run",
     "Application.Demo11.executor": "Run",
     "Application.Demo11DeepCopy.executor": "Run",
     "Application.Demo11Get.executor": "Run",
     "Application.Demo11MinElement.executor": "Debug",
     "Application.Demo11Reading.executor": "Run",
+    "Application.Demo11TreeMap.executor": "Run",
     "Application.Demo12.executor": "Run",
     "Application.Demo12IterateTraditionalForLoop.executor": "Run",
     "Application.Demo12SecondMax.executor": "Debug",
@@ -87,6 +192,7 @@
     "Application.Demo19Sort.executor": "Run",
     "Application.Demo1Add.executor": "Run",
     "Application.Demo1CustomLinkedList.executor": "Debug",
+    "Application.Demo1PutMethod.executor": "Run",
     "Application.Demo2.executor": "Run",
     "Application.Demo20.executor": "Run",
     "Application.Demo20Addition.executor": "Run",
@@ -107,6 +213,8 @@
     "Application.Demo28Duplicate.executor": "Run",
     "Application.Demo28Pattern3.executor": "Run",
     "Application.Demo29Pattern4.executor": "Run",
+    "Application.Demo2Poll.executor": "Run",
+    "Application.Demo2PutAll.executor": "Run",
     "Application.Demo2RemoveClear.executor": "Run",
     "Application.Demo2SortingUsingComparable.executor": "Run",
     "Application.Demo2ToLowerCase.executor": "Run",
@@ -123,6 +231,8 @@
     "Application.Demo3CustomObjects.executor": "Run",
     "Application.Demo3Find.executor": "Run",
     "Application.Demo3ForEachMethodJava8.executor": "Debug",
+    "Application.Demo3PeekInspection.executor": "Run",
+    "Application.Demo3Remove.executor": "Run",
     "Application.Demo3RemoveAll.executor": "Run",
     "Application.Demo3SortingUsingComparable.executor": "Run",
     "Application.Demo3SortingUsingComparatorCustomObjects.executor": "Run",
@@ -130,33 +240,41 @@
     "Application.Demo3SumOfCubeOfDigits.executor": "Run",
     "Application.Demo4.executor": "Run",
     "Application.Demo4Armstrong.executor": "Run",
+    "Application.Demo4Clear.executor": "Run",
+    "Application.Demo4CustomObjectsComparator.executor": "Run",
+    "Application.Demo4ElementInspection.executor": "Run",
     "Application.Demo4NestedClass.executor": "Run",
     "Application.Demo4RetainsAll.executor": "Run",
     "Application.Demo4RetrieveIterator.executor": "Run",
     "Application.Demo4SortingUsingComparable.executor": "Run",
     "Application.Demo4SortingUsingComparatorCustomObjects.executor": "Run",
     "Application.Demo5.executor": "Run",
+    "Application.Demo5Get.executor": "Run",
     "Application.Demo5LocalInnerClass.executor": "Run",
     "Application.Demo5RemoveIf.executor": "Run",
     "Application.Demo5ReverseNumber.executor": "Run",
     "Application.Demo5UsingRunnableInterface.executor": "Run",
     "Application.Demo6.executor": "Run",
     "Application.Demo6CallByValue.executor": "Run",
+    "Application.Demo6Contains.executor": "Run",
     "Application.Demo6PalindromeNumber.executor": "Run",
     "Application.Demo6RemoveIf.executor": "Run",
     "Application.Demo6UsingRunnableInterface.executor": "Run",
     "Application.Demo7.executor": "Run",
     "Application.Demo7AddAll.executor": "Run",
     "Application.Demo7Concat.executor": "Run",
+    "Application.Demo7Projections.executor": "Run",
     "Application.Demo7UsingRunnableInterface.executor": "Run",
     "Application.Demo8.executor": "Run",
     "Application.Demo8ArrayElementSum.executor": "Run",
     "Application.Demo8Case.executor": "Run",
+    "Application.Demo8Projections.executor": "Run",
     "Application.Demo8RemoveIf.executor": "Run",
     "Application.Demo8UsingRunnableInterface.executor": "Run",
     "Application.Demo9.executor": "Run",
     "Application.Demo9ContainsContainsAll.executor": "Run",
     "Application.Demo9LinearSearch.executor": "Run",
+    "Application.Demo9LinkedHashMapProjections.executor": "Run",
     "Application.Demo9Replace.executor": "Run",
     "Application.Expense.executor": "Debug",
     "Application.LombokAppTest.executor": "Run",
@@ -165,6 +283,7 @@
     "Application._10_object_class.Demo4.executor": "Run",
     "Application._15_collection.list.stackDemo.Demo1.executor": "Run",
     "Application._15_collection.list.stackDemo.Demo2.executor": "Run",
+    "Application._15_collection.queue.Demo1.executor": "Run",
     "Application._15_collection.set.linkedHashSetDemos.Demo1.executor": "Run",
     "Application._15_collection.set.treeSetDemos.Demo1.executor": "Run",
     "Application._15_collection.set.treeSetDemos.Demo2.executor": "Run",
@@ -191,7 +310,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Work/ISJ013/core-java/src/_15_collection",
+    "last_opened_file_path": "C:/Work/ISJ013/core-java/src/_15_collection/queue/priorityQueueImpl",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -208,30 +327,30 @@
       <recent name="_13_exception_handling" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\ISJ013\core-java\src\_15_collection\queue\priorityQueueImpl" />
       <recent name="C:\Work\ISJ013\core-java\src\_15_collection" />
       <recent name="C:\Work\ISJ013\core-java\src\_15_collection\list\linkedListDemos" />
       <recent name="C:\Work\ISJ013\core-java\src\_15_collection\list\vectorDemos" />
       <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\" />
-      <recent name="C:\Work\ISJ013\core-java\src\_4_control_statements\_7_conitnueDemo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Work\ISJ013\core-java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_15_collection._6_map" />
+      <recent name="_15_collection.queue.priorityQueueImpl" />
+      <recent name="_15_collection.queue" />
       <recent name="_15_collection.set.treeSetDemos" />
       <recent name="_15_collection.set.hashSetDemos" />
-      <recent name="_15_collection.set.linkedHashSetDemos" />
-      <recent name="_15_collection.list.sorting.comparatorDemos" />
-      <recent name="_15_collection.list.sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo4CustomObjectsComparator">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.set.treeSetDemos.Demo1" />
+  <component name="RunManager" selected="Application.Demo12TreeMap">
+    <configuration name="Demo10TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection._6_map.Demo10TreeMap" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.set.treeSetDemos.*" />
+          <option name="PATTERN" value="_15_collection._6_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.set.treeSetDemos.Demo2" />
+    <configuration name="Demo11TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection._6_map.Demo11TreeMap" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.set.treeSetDemos.*" />
+          <option name="PATTERN" value="_15_collection._6_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3CustomObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.set.treeSetDemos.Demo3CustomObjects" />
+    <configuration name="Demo12TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection._6_map.Demo12TreeMap" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.set.treeSetDemos.*" />
+          <option name="PATTERN" value="_15_collection._6_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +384,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4CustomObjectsComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.set.treeSetDemos.Demo4CustomObjectsComparator" />
+    <configuration name="Demo8Projections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection._6_map.Demo8Projections" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.set.treeSetDemos.*" />
+          <option name="PATTERN" value="_15_collection._6_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4RetrieveIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_collection.set.hashSetDemos.Demo4RetrieveIterator" />
+    <configuration name="Demo9LinkedHashMapProjections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_collection._6_map.Demo9LinkedHashMapProjections" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_collection.set.hashSetDemos.*" />
+          <option name="PATTERN" value="_15_collection._6_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,19 +411,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._15_collection.set.treeSetDemos.Demo1" />
-      <item itemvalue="Application._15_collection.set.treeSetDemos.Demo2" />
-      <item itemvalue="Application.Demo3CustomObjects" />
-      <item itemvalue="Application.Demo4CustomObjectsComparator" />
-      <item itemvalue="Application.Demo4RetrieveIterator" />
+      <item itemvalue="Application.Demo10TreeMap" />
+      <item itemvalue="Application.Demo11TreeMap" />
+      <item itemvalue="Application.Demo12TreeMap" />
+      <item itemvalue="Application.Demo8Projections" />
+      <item itemvalue="Application.Demo9LinkedHashMapProjections" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo4CustomObjectsComparator" />
-        <item itemvalue="Application.Demo3CustomObjects" />
-        <item itemvalue="Application._15_collection.set.treeSetDemos.Demo2" />
-        <item itemvalue="Application._15_collection.set.treeSetDemos.Demo1" />
-        <item itemvalue="Application.Demo4RetrieveIterator" />
+        <item itemvalue="Application.Demo12TreeMap" />
+        <item itemvalue="Application.Demo11TreeMap" />
+        <item itemvalue="Application.Demo10TreeMap" />
+        <item itemvalue="Application.Demo9LinkedHashMapProjections" />
+        <item itemvalue="Application.Demo8Projections" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +467,8 @@
       <workItem from="1745202565841" duration="4165000" />
       <workItem from="1745207756373" duration="6662000" />
       <workItem from="1745289233211" duration="5460000" />
-      <workItem from="1745376383765" duration="7493000" />
+      <workItem from="1745376383765" duration="7899000" />
+      <workItem from="1745462924584" duration="7747000" />
     </task>
     <servers />
   </component>
@@ -644,12 +764,12 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_15_collection/list/Demo1.java</url>
+          <url>file://$PROJECT_DIR$/src/_15_collection/_1_list/Demo1.java</url>
           <line>12</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_15_collection/list/linkedListDemos/Demo1CustomLinkedList.java</url>
+          <url>file://$PROJECT_DIR$/src/_15_collection/_1_list/linkedListDemos/Demo1CustomLinkedList.java</url>
           <line>36</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
