@@ -15,9 +15,9 @@ public class Demo4InsertInto {
         Statement statement = connection.createStatement();
 
         //step 04 : execute the query
-        statement.execute("insert into course(name, price) values('FSP',100)");
-        statement.execute("insert into course(name, price) values('DA',100)");
-        statement.execute("insert into course(name, price) values('DS',100)");
+        statement.executeUpdate("insert into course(name, price) values('FSP',100)");
+        statement.executeUpdate("insert into course(name, price) values('DA',100)");
+        statement.executeUpdate("insert into course(name, price) values('DS',100)");
 
         //step 05 : close the connection
         connection.close();

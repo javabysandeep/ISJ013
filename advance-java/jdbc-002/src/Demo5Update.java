@@ -15,7 +15,7 @@ public class Demo5Update {
         Statement statement = connection.createStatement();
 
         //step 04 : execute the query
-        statement.execute("update course set price=7000 where id=5");
+        statement.executeUpdate("update course set price=7000 where id=5");
 
         //step 05 : close the connection
         connection.close();

@@ -15,7 +15,7 @@ public class Demo6Delete {
         Statement statement = connection.createStatement();
 
         //step 04 : execute the query
-        statement.execute("delete from course where id=5");
+        statement.executeUpdate("delete from course where id=5");
 
         //step 05 : close the connection
         connection.close();

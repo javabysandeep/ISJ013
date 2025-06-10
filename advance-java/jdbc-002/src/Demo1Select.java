@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class Demo1 {
+public class Demo1Select {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         //step 01 : create the project and add the necessary jar - mysql
         //step 02 : set up the database and get connection details
@@ -25,7 +25,6 @@ public class Demo1 {
             System.out.println(resultSet.getInt("id") + "\t" +
                     resultSet.getString("name"));
         }
-
 
         //step 08 : close the connection
         resultSet.close();
