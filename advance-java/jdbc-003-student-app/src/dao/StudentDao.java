@@ -6,6 +6,7 @@ import java.util.List;
 
 public class StudentDao {
     public void addStudent(Student student) {
+
     }
 
     public void updateStudent(Student student) {
