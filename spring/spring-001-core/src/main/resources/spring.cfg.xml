@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.itshaala.controller.CourseController" name="controller" scope="singleton">
+        <constructor-arg name="courseService" ref="service">
+        </constructor-arg>
+    </bean>
+
+    <bean class="com.itshaala.service.CourseService" name="service" scope="singleton">
+        <constructor-arg name="courseDao" ref="dao"></constructor-arg>
+    </bean>
+
+    <bean class="com.itshaala.dao.CourseDao" name="dao" scope="singleton">
+    </bean>
+
+</beans>
