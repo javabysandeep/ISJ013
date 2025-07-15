@@ -11,7 +11,7 @@ import java.util.List;
 
 @Controller
 @AllArgsConstructor
-@RequestMapping("/students")
+@RequestMapping("/students")//optional
 public class StudentController {
 
     private StudentService studentService;
